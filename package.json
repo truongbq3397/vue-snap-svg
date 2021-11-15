@@ -1,0 +1,38 @@
+{
+  "name": "vue-snap-svg",
+  "description": "Vue binding to svg element via Snap framework",
+  "version": "0.0.1",
+  "private": false,
+  "author": {
+    "name": "Bui Quang Truong",
+    "email": "truongbq3397@gmail.com"
+  },
+  "keywords": [
+    "vue",
+    "snap",
+    "svg"
+  ],
+  "license": "MIT",
+  "files": [
+    "dist/*"
+  ],
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "bili --name index --plugin"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "snapsvg-cjs": "0.0.6",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "bili": "^5.0.5",
+    "rollup-plugin-vue": "^6.0.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
