@@ -1,12 +1,13 @@
 {
   "name": "vue-snap-svg",
   "description": "Vue binding to svg element via Snap framework",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "author": {
     "name": "Bui Quang Truong",
     "email": "truongbq3397@gmail.com"
   },
+  "repository": "https://github.com/truongbq3397/vue-snap-svg.git",
   "keywords": [
     "vue",
     "snap",
