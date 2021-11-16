@@ -1,4 +1,4 @@
-# Vue Snap [![Version](https://img.shields.io/npm/v/vue-snap-svg.svg)](https://www.npmjs.com/package/vue-snap-svg) [![License](https://img.shields.io/npm/l/vue-snap-svg.svg)](https://www.npmjs.com/package/vue-snap-svg)
+# Vue Snap [![Version](https://img.shields.io/npm/v/vue-snap-svg.svg)](https://www.npmjs.com/package/vue-snap-svg) [![License](https://img.shields.io/npm/l/vue-snap-svg.svg)](https://www.npmjs.com/package/vue-snap-svg) [![Discord](https://img.shields.io/discord/910049856519798804?color=%23292841&label=Discord&logo=%23ffffff&style=plastic)](https://discord.com/channels/910049856519798804)
 
 ![VueSnap Logo](https://raw.githubusercontent.com/truongbq3397/vue-snap-svg/master/vue-snapsvg.svg)
 
