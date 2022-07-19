@@ -3,7 +3,7 @@ import Stage from "./components/Stage";
 import SnapNode from "./components/SnapNode";
 import { componentPrefix } from "./utils";
 
-if (typeof window !== "undefined" && !window.Konva) {
+if (typeof window !== "undefined" && !window.Snap) {
     window.Snap = Snap;
 }
 
@@ -38,7 +38,6 @@ const VueSnap = {
             prefixToUse = options.prefix;
         }
         components.forEach((s) => {
-            console.log("s.component: ", s.component);
             Vue.component(`${prefixToUse}${s.name}`, s.component);
         });
     }
